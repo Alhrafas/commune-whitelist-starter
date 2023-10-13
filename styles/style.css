@@ -239,7 +239,7 @@ main {
       }
 
       .build {
-            border: 1px solid red;
+            /* border: 1px solid red; */
             padding: 1.2em;
             /* margin: 1em; */
             /* margin-left: 17.5%; */
